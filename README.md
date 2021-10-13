@@ -1,2 +1,2 @@
-# KNNeighbors-Classification-Model
+# KNNeighbors-Regressor-Model
 predicting boston house prices
